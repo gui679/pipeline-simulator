@@ -1,0 +1,40 @@
+.fodase tr{
+	border: 1px solid black;
+	width: 10%;
+	height: 10px;
+}
+
+.tempo{
+	color: red;
+}
+
+.porel{
+	position: relative;
+}
+
+.fleft{
+	float: left;
+}
+
+.mauto{
+	margin: 0 auto;
+}
+
+.tecen{
+	text-align: center;
+}
+
+.mb50{
+	margin-bottom: 50px;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+}
+
+#lista{
+	position: relative;
+	display: flex;
+	flex-direction: row-reverse;
+	float: left;
+}
